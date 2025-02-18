@@ -1,2 +1,2 @@
 # POO
-Aprendizagem adquirida por POO
+Aprendizagem adquirida em POO
